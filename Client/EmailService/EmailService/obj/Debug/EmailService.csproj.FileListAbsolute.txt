@@ -1,0 +1,15 @@
+P:\CodeRepos\C#Repos\EmailService\EmailService\bin\Debug\EmailService.exe.config
+P:\CodeRepos\C#Repos\EmailService\EmailService\bin\Debug\EmailService.exe
+P:\CodeRepos\C#Repos\EmailService\EmailService\bin\Debug\EmailService.pdb
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\EmailService.csprojAssemblyReference.cache
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\MainWindow.g.cs
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\App.g.cs
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\EmailService_MarkupCompile.cache
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\EmailService_MarkupCompile.lref
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\MainWindow.baml
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\EmailService.g.resources
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\EmailService.Properties.Resources.resources
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\EmailService.csproj.GenerateResource.cache
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\EmailService.csproj.CoreCompileInputs.cache
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\EmailService.exe
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Debug\EmailService.pdb

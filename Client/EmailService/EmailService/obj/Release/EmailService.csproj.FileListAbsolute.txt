@@ -1,0 +1,17 @@
+P:\CodeRepos\C#Repos\EmailService\EmailService\bin\Release\EmailService.exe.config
+P:\CodeRepos\C#Repos\EmailService\EmailService\bin\Release\EmailService.exe
+P:\CodeRepos\C#Repos\EmailService\EmailService\bin\Release\EmailService.pdb
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService.csprojAssemblyReference.cache
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\MainWindow.g.cs
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\App.g.cs
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService_MarkupCompile.cache
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService_MarkupCompile.lref
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\MainWindow.baml
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService.g.resources
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService.Properties.Resources.resources
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService.csproj.GenerateResource.cache
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService.csproj.CoreCompileInputs.cache
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService.exe
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService.pdb
+P:\CodeRepos\C#Repos\EmailService\EmailService\bin\Release\Microsoft.Web.Services3.dll
+P:\CodeRepos\C#Repos\EmailService\EmailService\obj\Release\EmailService.csproj.CopyComplete
